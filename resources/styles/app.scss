@@ -1,0 +1,43 @@
+@import "vendor/normalize";
+
+
+body {
+    font-family: 'Raleway', sans-serif;
+    color: #3D3E40;
+}
+
+a {
+    color: #3D3E40;
+}
+
+a:hover {
+    color: #4E4F52;
+}
+
+.gradient {
+    background: linear-gradient(25deg, #166075, #E2EFA6) repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    min-width: 100%;
+}
+
+.box {
+    font-weight: lighter;
+    text-align: center;
+}
+
+#title {
+    font-size: 46px;
+    margin-bottom: 20px
+}
+
+#slogan {
+    font-size: 21px;
+    margin-bottom: 10px;
+}
+
+#contact {
+    font-size: 21px;
+}

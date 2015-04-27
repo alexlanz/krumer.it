@@ -1,0 +1,6 @@
+{
+  "name": "krumer.it",
+  "dependencies": {
+    "normalize.css": "3.0.*"
+  }
+}
